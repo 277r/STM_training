@@ -1,0 +1,20 @@
+body {
+	
+	height: 100%;
+	/* no margin = no white line with a few pixels on every side*/
+	margin:0;
+	/* hide the scroll bars*/
+	overflow:hidden;
+}
+
+
+.Button{
+	font-family: Impact;
+	background-color: white;
+    color:black;
+
+}
+.Button:hover {
+	background-color: black;
+	color:white;
+}
